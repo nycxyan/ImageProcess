@@ -301,7 +301,7 @@ int main(int argc, char* argv[])
 	img1->printCurrentEqAry( outFile1 );
 	
 	/*
-	step 4: manageEQAry // On your own 
+	step 4: manageEQAry // 
  	   - print EQAry // with index up to newLable with caption	*/
 	img1->manageEqAry();
 	outFile1<<"EqAry after manageEqAry():"<<endl;
